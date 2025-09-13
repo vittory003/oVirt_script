@@ -5,7 +5,8 @@ Gli script nascono da esigenze reali di operations quotidiane: backup, migrazion
 
 ## Contenuto (ci sto lavorando :-D )
 
-- `vmware_2_olvm.sh` → deploy VM in olvm da export OVF
+- `vmware_2_olvm.sh` → deploy VM in olvm da export OVF 1 shoot
+- `deploy_vm_from_raw.sh` →  deploy VM in olvm da raw già caricato su OLVM
 
 ## Requisiti
 
